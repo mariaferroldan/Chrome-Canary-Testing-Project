@@ -17,13 +17,13 @@ This project has helped me a lot to settle much of the knowledge I have acquired
 For this project, I performed the following tasks:
 
 
-Analysis of the app and its features
-Test case design and Test set design
-Test Execution
-Detection of 2 bugs
-Bug report
-Test report
-Evidence collection
+Analysis of the app and its features, 
+Test case design and Test set design, 
+Test Execution, 
+Detection of 2 bugs, 
+Bug report, 
+Test report, 
+Evidence collection.
 
 
 
